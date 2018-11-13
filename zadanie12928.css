@@ -1,0 +1,19 @@
+body {
+    background-color:peachpuff;
+}
+
+#title{
+    font-size: 45px;
+    color: red;
+    font-weight:600;
+}
+.Paragraf_1 {
+    font-size: 25px;
+    color: brown;
+    font-weight: 100;
+}
+.Paragraf_2{
+    font-size: 25px;
+    color: blue;
+    font-weight: 200;
+}
